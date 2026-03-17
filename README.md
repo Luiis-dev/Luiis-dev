@@ -15,4 +15,4 @@ Atualmente estou em transição para a área de tecnologia, focando em construir
 
 ---
 📫 **Como me encontrar:**
-[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/evton-luis-dev/))
+[LinkedIn](https://www.linkedin.com/in/evton-luis-dev/)
