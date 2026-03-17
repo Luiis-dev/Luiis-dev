@@ -17,7 +17,7 @@ Atualmente estou em transição para a área de tecnologia, focando em construir
 
 ## 📊 Minhas Estatísticas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=dark&locale=pt-br)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas+de+Evton+Luís)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=dark)
 
