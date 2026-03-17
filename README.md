@@ -9,10 +9,8 @@ Atualmente estou em transição para a área de tecnologia, focando em construir
 
 ### 🛠️ Tecnologias e Ferramentas:
 
-![Python](https://img.shields.io)
-![JavaScript](https://img.shields.io)
-![Git](https://img.shields.io)
-![GitHub](https://img.shields.io)
+![Python](https://img.shields.io) ![JavaScript](https://img.shields.io) ![Git](https://img.shields.io) ![GitHub](https://img.shields.io)
+
 
 
 ---
