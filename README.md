@@ -9,7 +9,7 @@ Atualmente estou em transição para a área de tecnologia, focando em construir
 
 ## 🛠️ Tecnologias e Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,jupyter)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,git,github)](https://skillicons.dev)
 
 
 ---
