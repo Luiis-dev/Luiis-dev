@@ -1,16 +1,18 @@
-## Hi there 👋
+# Olá, eu sou o Evton Luís! 👋
 
-<!--
-**Luiis-dev/Luiis-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Desenvolvedor Full Stack em formação & Entusiasta de IA
 
-Here are some ideas to get you started:
+Atualmente estou em transição para a área de tecnologia, focando em construir soluções que unem análise de dados e interfaces modernas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Atualmente estudando: **Python, Git/GitHub e Front-end**.
+- 📊 Experiência prática com **Pandas, Streamlit e Gemini API**.
+
+### 🛠️ Tecnologias e Ferramentas:
+![Python](https://img.shields.io)
+![JavaScript](https://img.shields.io)
+![Git](https://img.shields.io)
+![GitHub](https://img.shields.io)
+
+---
+📫 **Como me encontrar:**
+[LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/evton-luis-dev/))
