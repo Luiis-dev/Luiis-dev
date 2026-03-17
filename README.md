@@ -7,10 +7,9 @@ Atualmente estou em transição para a área de tecnologia, focando em construir
 - 🔭 Atualmente estudando: **Python, Git/GitHub e Front-end**.
 - 📊 Experiência prática com **Pandas, Streamlit e Gemini API**.
 
-### 🛠️ Tecnologias e Ferramentas:
+## 🛠️ Tecnologias e Ferramentas
 
-![Python](https://img.shields.io) ![JavaScript](https://img.shields.io) ![Git](https://img.shields.io) ![GitHub](https://img.shields.io)
-
+[![My Skills](https://skillicons.dev/icons?i=python,javascript,html,css,git,github,vscode,jupyter)](https://skillicons.dev)
 
 
 ---
