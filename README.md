@@ -8,10 +8,12 @@ Atualmente estou em transição para a área de tecnologia, focando em construir
 - 📊 Experiência prática com **Pandas, Streamlit e Gemini API**.
 
 ### 🛠️ Tecnologias e Ferramentas:
+
 ![Python](https://img.shields.io)
 ![JavaScript](https://img.shields.io)
 ![Git](https://img.shields.io)
 ![GitHub](https://img.shields.io)
+
 
 ---
 📫 **Como me encontrar:**
