@@ -2,6 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0077B5&height=200&section=header&text=Evton%20Luís&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20Formação%20%7C%20Entusiasta%20de%20IA&descSize=16&descAlignY=58&descColor=a0aec0" />
 
+<img src="https://komarev.com/ghpvc/?username=Luiis-dev&color=0077B5&style=for-the-badge&label=VISITAS+AO+PERFIL" />
+
 </div>
 
 ---
@@ -11,7 +13,6 @@
 - 🚀 Em transição para tecnologia, focado em **Full Stack + Inteligência Artificial**
 - 🌱 Atualmente estudando **Python**, **Git/GitHub** e **Front-end**
 - 🛠️ Experiência prática com **Pandas**, **Streamlit** e **Gemini API**
-- 💡 Apaixonado por construir soluções que unem dados e interfaces modernas
 - 📍 Bahia, Brasil
 
 ---
@@ -27,14 +28,6 @@
 ---
 
 ## 📊 Estatísticas
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Luiis-dev&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/Luiis-dev)
-
-</div>
-
-<br/>
 
 <div align="center">
 
