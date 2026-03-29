@@ -11,7 +11,6 @@
 - 🚀 Em transição para tecnologia, focado em **Full Stack + Inteligência Artificial**
 - 🌱 Atualmente estudando **Python**, **Git/GitHub** e **Front-end**
 - 🛠️ Experiência prática com **Pandas**, **Streamlit** e **Gemini API**
-- 💡 Apaixonado por construir soluções que unem dados e interfaces modernas
 - 📍 Bahia, Brasil
 
 ---
