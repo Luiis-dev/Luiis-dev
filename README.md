@@ -10,11 +10,11 @@
 
 ```python
 dev = {
-    "nome":       "Evton Luís",
-    "foco":       "Transição para tecnologia — Full Stack + IA",
-    "estudando":  ["Python", "Git/GitHub", "Front-end"],
+    "nome":        "Evton Luís",
+    "foco":        "Transição para tecnologia — Full Stack + IA",
+    "estudando":   ["Python", "Git/GitHub", "Front-end"],
     "experiência": ["Pandas", "Streamlit", "Gemini API"],
-    "objetivo":   "Construir soluções que unem dados e interfaces modernas"
+    "objetivo":    "Construir soluções que unem dados e interfaces modernas"
 }
 ```
 
@@ -34,15 +34,15 @@ dev = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas&hide_border=true&bg_color=0d1117&title_color=0077B5&icon_color=0077B5&text_color=c9d1d9&cache_seconds=86400&count_private=true" />
-
-<img height="160em" src="https://streak-stats.demolab.com?user=Luiis-dev&theme=dark&hide_border=true&background=0d1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5&locale=pt_BR" />
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Luiis-dev&theme=darkhub&no-frame=true&column=4&margin-w=10)](https://github.com/Luiis-dev)
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0077B5&text_color=c9d1d9&cache_seconds=86400" />
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiis-dev&theme=react-dark&hide_border=true&area=true&color=0077B5&line=0077B5&point=ffffff)](https://github.com/Luiis-dev)
 
 </div>
 
