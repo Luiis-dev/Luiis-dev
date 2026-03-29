@@ -10,11 +10,11 @@
 
 ```python
 dev = {
-    "nome":     "Evton Luís",
-    "foco":     "Transição para tecnologia — Full Stack + IA",
-    "estudando": ["Python", "Git/GitHub", "Front-end"],
+    "nome":       "Evton Luís",
+    "foco":       "Transição para tecnologia — Full Stack + IA",
+    "estudando":  ["Python", "Git/GitHub", "Front-end"],
     "experiência": ["Pandas", "Streamlit", "Gemini API"],
-    "objetivo": "Construir soluções que unem dados e interfaces modernas"
+    "objetivo":   "Construir soluções que unem dados e interfaces modernas"
 }
 ```
 
@@ -34,9 +34,15 @@ dev = {
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas%20de%20Evton%20Luís&hide_border=true&bg_color=0d1117&title_color=0077B5&icon_color=0077B5&text_color=c9d1d9" />
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=dark&locale=pt-br&custom_title=Estatísticas&hide_border=true&bg_color=0d1117&title_color=0077B5&icon_color=0077B5&text_color=c9d1d9&cache_seconds=86400&count_private=true" />
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0077B5&text_color=c9d1d9" />
+<img height="160em" src="https://streak-stats.demolab.com?user=Luiis-dev&theme=dark&hide_border=true&background=0d1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5&locale=pt_BR" />
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=0077B5&text_color=c9d1d9&cache_seconds=86400" />
 
 </div>
 
