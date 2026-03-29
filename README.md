@@ -30,16 +30,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=0077B5&icon_color=0077B5&bg_color=0d1117&text_color=c9d1d9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077B5&text_color=c9d1d9" height="165"/>
+[![trophy](https://github-profile-trophy.vercel.app/?username=Luiis-dev&theme=darkhub&no-frame=true&column=4&margin-w=10&margin-h=10)](https://github.com/Luiis-dev)
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Luiis-dev&theme=tokyonight-duo&hide_border=true&locale=pt_BR&background=0d1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5)](https://git.io/streak-stats)
-
-</div>
+<br/>
 
 <div align="center">
 
