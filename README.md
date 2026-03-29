@@ -34,7 +34,7 @@ dev = {
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Luiis-dev&theme=darkhub&no-frame=true&column=4&margin-w=10)](https://github.com/Luiis-dev)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luiis-dev&theme=dark&hide_border=true&background=0d1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5&locale=pt_BR)](https://git.io/streak-stats)
 
 </div>
 
