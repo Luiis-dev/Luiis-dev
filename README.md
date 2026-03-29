@@ -41,13 +41,17 @@ evton = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas+de+Evton+Luís&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Luiis-dev&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas+de+Evton+Luís&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&cache_seconds=1800"/>
 &nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6"/>
+<img height="180em" src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&cache_seconds=1800"/>
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=Luiis-dev&theme=tokyonight-duo&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0d1117" width="55%"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiis-dev&theme=tokyo-night&hide_border=true&bg_color=0d1117&area=true" width="90%"/>
 
 </div>
 
