@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0077B5&height=200&section=header&text=Evton%20Luís&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20Forma%C3%A7%C3%A3o%20%7C%20Entusiasta%20de%20IA&descSize=16&descAlignY=58&descColor=a0aec0" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1f35,100:0077B5&height=200&section=header&text=Evton%20Luís&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack%20em%20Formação%20%7C%20Entusiasta%20de%20IA&descSize=16&descAlignY=58&descColor=a0aec0" />
 
 </div>
 
@@ -8,15 +8,11 @@
 
 ## 👨‍💻 Sobre mim
 
-```python
-dev = {
-    "nome":        "Evton Luís",
-    "foco":        "Transição para tecnologia — Full Stack + IA",
-    "estudando":   ["Python", "Git/GitHub", "Front-end"],
-    "experiência": ["Pandas", "Streamlit", "Gemini API"],
-    "objetivo":    "Construir soluções que unem dados e interfaces modernas"
-}
-```
+- 🚀 Em transição para tecnologia, focado em **Full Stack + Inteligência Artificial**
+- 🌱 Atualmente estudando **Python**, **Git/GitHub** e **Front-end**
+- 🛠️ Experiência prática com **Pandas**, **Streamlit** e **Gemini API**
+- 💡 Apaixonado por construir soluções que unem dados e interfaces modernas
+- 📍 Bahia, Brasil
 
 ---
 
