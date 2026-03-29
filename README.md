@@ -6,7 +6,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evton-luis-dev/)
 &nbsp;
-![Visitantes](https://visitor-badge.laobi.icu/badge?page_id=Luiis-dev.Luiis-dev&style=for-the-badge)
+![Visitantes](https://komarev.com/ghpvc/?username=Luiis-dev&style=for-the-badge&color=2c5364&label=VISITANTES)
 
 </div>
 
@@ -41,12 +41,23 @@ evton = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas+de+Evton+Luís&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=tokyonight&locale=pt-br&custom_title=Estatísticas+de+Evton+Luís&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+&nbsp;
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiis-dev&theme=tokyonight&hide_border=true&locale=pt_BR" width="55%"/>
+<img src="https://streak-stats.demolab.com?user=Luiis-dev&theme=tokyonight-duo&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D&background=0d1117" width="55%"/>
+
+</div>
+
+---
+
+## 📬 Como me encontrar
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evton-luis-dev/)
 
 </div>
 
