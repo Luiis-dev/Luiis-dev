@@ -11,6 +11,7 @@
 - 🚀 Em transição para tecnologia, focado em **Full Stack + Inteligência Artificial**
 - 🌱 Atualmente estudando **Python**, **Git/GitHub** e **Front-end**
 - 🛠️ Experiência prática com **Pandas**, **Streamlit** e **Gemini API**
+- 💡 Apaixonado por construir soluções que unem dados e interfaces modernas
 - 📍 Bahia, Brasil
 
 ---
@@ -29,15 +30,20 @@
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Luiis-dev&theme=dark&hide_border=true&background=0d1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5&locale=pt_BR)](https://git.io/streak-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=tokyonight&hide_border=true&title_color=0077B5&icon_color=0077B5&bg_color=0d1117&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0077B5&text_color=c9d1d9" height="165"/>
 
 </div>
 
-<br/>
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Luiis-dev&theme=tokyonight-duo&hide_border=true&locale=pt_BR&background=0d1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5)](https://git.io/streak-stats)
+
+</div>
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiis-dev&theme=react-dark&hide_border=true&area=true&color=0077B5&line=0077B5&point=ffffff)](https://github.com/Luiis-dev)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luiis-dev&theme=react-dark&hide_border=true&area=true&color=0077B5&line=0077B5&point=ffffff&area_color=0077B5)](https://github.com/Luiis-dev)
 
 </div>
 
