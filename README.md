@@ -6,8 +6,8 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🚀 Em transição para tecnologia, focado em **Full Stack**
-- 🌱 Atualmente estudando **Python**, **Git/GitHub**
+- 🔄 Em transição para tecnologia, focado em Full Stack
+- 🐍 No momento, estudando os fundamentos de Python
 - 📍 Bahia, Brasil
 
 ---
