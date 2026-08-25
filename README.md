@@ -28,7 +28,7 @@
 
 <div align="center">
   <a href="https://github.com/Luiis-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiis-dev&theme=react-dark&hide_border=true&area=true&color=0077B5&line=0077B5&point=ffffff&area_color=0077B5" />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiis-dev&theme=react-dark&hide_border=true&area=true&line=0077B5&point=ffffff&area_color=0077B5" />
   </a>
 </div>
 
