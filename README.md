@@ -14,8 +14,6 @@
 
 ## 🛠️ Tecnologias e Ferramentas
 
-### 🛠 Tecnologias e Ferramentas
-
 <div align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,git,github&theme=dark" />
@@ -27,9 +25,11 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <a href="https://github.com/Luiis-dev">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Luiis-dev&theme=react-dark&hide_border=true&area=true&line=0077B5&point=ffffff" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=react&hide_border=true&count_private=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiis-dev&theme=react&hide_border=true" />
 </div>
 
 ---
