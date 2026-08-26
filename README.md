@@ -25,7 +25,7 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiis-dev&theme=react-dark&hide_border=true&background=0D1117&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" />
+  <img src="https://streak-stats.demolab.com/?user=Luiis-dev&theme=react-dark&hide_border=true&background=0D1117&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" />
 </div>
 
 ---
