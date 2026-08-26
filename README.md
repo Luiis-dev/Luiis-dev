@@ -25,12 +25,7 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&hide_border=true&theme=tokyonight" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiis-dev&hide_border=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Luiis-dev&theme=react-dark&hide_border=true&background=0D1117&stroke=0077B5&ring=0077B5&fire=0077B5&currStreakLabel=0077B5" />
 </div>
 
 ---
