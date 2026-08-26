@@ -25,10 +25,6 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&hide_border=true&theme=dark" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=Luiis-dev&theme=dark&hide_border=true" />
 </div>
 
