@@ -24,7 +24,7 @@
 
 ## 📊 Estatísticas
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Luiis-dev&theme=dark&hide_border=true&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5&sideLabels=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&border_radius=10" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5&text_color=A0AEC0" />
 </div>
 
 ## 📬 Como me encontrar
