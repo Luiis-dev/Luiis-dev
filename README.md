@@ -23,12 +23,9 @@
 ---
 
 ## 📊 Estatísticas
-
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Luiis-dev&theme=dark&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=Luiis-dev&theme=dark&hide_border=true&background=0D1117&ring=0077B5&fire=0077B5&currStreakLabel=0077B5&sideLabels=A0AEC0&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=6E7681&border_radius=10" />
 </div>
-
----
 
 ## 📬 Como me encontrar
 
