@@ -24,7 +24,7 @@
 
 ## 📊 Estatísticas
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Luiis-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5&text_color=A0AEC0&locale=pt-br" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Luiis-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5&text_color=A0AEC0&locale=pt-br&commits_year=2026" />
 </div>
 
 ## 📬 Como me encontrar
