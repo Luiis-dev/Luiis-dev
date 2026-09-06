@@ -24,7 +24,7 @@
 
 ## 📊 Estatísticas
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=Luiis-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5&text_color=A0AEC0](https://github-readme-stats-fast.vercel.app/api?username=Luiis-dev&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=0077B5&icon_color=0077B5&text_color=A0AEC0)" />
+  <img src="https://ghstats.dev/api/card?username=Luiis-dev&theme=tokyonight" />
 </div>
 
 ## 📬 Como me encontrar
