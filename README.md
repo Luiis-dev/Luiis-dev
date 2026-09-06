@@ -24,7 +24,7 @@
 
 ## 📊 Estatísticas
 <div align="center">
-  <<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Luiis-dev&layout=compact&theme=dark&locale=pt-br" />
+  <img src="https://ghstats.dev/api/card?username=Luiis-dev&theme=tokyonight" />
 </div>
 
 ## 📬 Como me encontrar
